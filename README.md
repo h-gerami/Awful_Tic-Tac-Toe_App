@@ -1,27 +1,21 @@
 # Awful_Tic-Tac-Toe_App
-React Native tic tac toe game , with AI
-# weather-search-app
-Write your city Name and Check the Weather :)
+- React Native tic tac toe game , with AI
+- I named this game awful cause you can't ever win the AI inside it :)
+
 # Features
 - Created by Typescript
 - Powered by Hermes Engine
 - All UI Components are Created and there is no ui kit packages inside app
-- All net Images load lazy for best performance with react-native-fast-image
-- Errors like network are handeled and the app work well in slow network conditions with smooth scrolling
-- There are tests for reducers and snapshots for HOC Components
-- App works in both portrait and landscape mode
+- Even Cross and Circles are created bt react-native-svg
+- Beautiful game font added inside the app for both android and ios platform
+- Gif Works on android
 - Principles, component-based architecture etc
 - No crashes and No memory leaks
 - The app run on both iOS and Android phones.
-# Packages in use
-- State Management: Redux and it's addons (react-redux, redux-thunk, redux-persist)
-- Navigation: react-navigation
-- Icon: react-native-vector-icon
-- DB: @react-native-community/async-storage(redux-persist)
 # Screen Shots
-Landscape Mode             |  Portrait Mode
+Welcome Page           |  Game Page
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/30626411/144562757-c0cd4090-a40d-46e1-876f-b4e59ddb069e.png)  |  ![](https://user-images.githubusercontent.com/30626411/144562728-cbdfcacf-1c82-4cfd-98f4-efa35d35cc62.png)
+![](https://user-images.githubusercontent.com/30626411/145814019-46a30d21-38c6-41a4-8270-63c86ad536af.png)  |  ![](https://user-images.githubusercontent.com/30626411/145814039-4aa687fc-e15f-4193-a9bc-ae7042040251.png)
 # Installation
 - Clone the project
 - Go to root folder
@@ -30,7 +24,5 @@ Landscape Mode             |  Portrait Mode
 - cd ..
 - npx react-native run-ios
 - npx react-native run-android
-
-
 
 
